@@ -1,5 +1,5 @@
 # Transactions-Data-Bank-Fraud-Detection
-# Fraud Detection Model: Bank Transactions Data
+Fraud Detection Model: Bank Transactions Data
 # Project Overview
 This project focuses on detecting fraudulent transactions using machine learning techniques. The dataset contains over 1 million transactions, each labeled as either fraudulent or non-fraudulent. Our goal was to analyze the dataset, preprocess the data, and build a machine learning model to predict whether future transactions will be fraudulent.
 
